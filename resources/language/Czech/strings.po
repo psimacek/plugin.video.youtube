@@ -8,7 +8,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: 2015-09-21 11:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: Petr Šimáček <petr.simacek@gmail.com>\n"
 "Language-Team: LANGUAGE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,11 +18,11 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid "Plugin for YouTube"
-msgstr ""
+msgstr "Doplněk pro YouTube"
 
 msgctxt "Addon Description"
 msgid "YouTube is a one of the biggest video-sharing websites of the world."
-msgstr ""
+msgstr "YouTube je jeden z největších světových webů pro sdílení videa."
 
 msgctxt "#30000"
 msgid "General"
@@ -146,19 +146,19 @@ msgstr "Podpora alternativního přehrávače"
 
 msgctxt "#30037"
 msgid "Custom Watch Later Playlist ID"
-msgstr ""
+msgstr "Vlastní ID playlistu Sledovat později"
 
 msgctxt "#30038"
 msgid "Custom History Playlist ID"
-msgstr ""
+msgstr "Vlastní ID playlistu Historie"
 
 msgctxt "#30039"
 msgid "Enable URLResolver Debrid support"
-msgstr ""
+msgstr "Povolit podporu URLResolver Debrid"
 
 msgctxt "#30040"
 msgid "Configure URLResolver"
-msgstr ""
+msgstr "Nastavení URLResolveru"
 
 msgctxt "#30100"
 msgid "Favorites"
@@ -249,11 +249,11 @@ msgstr "Vyčistit"
 
 msgctxt "#30200"
 msgid "API Key"
-msgstr ""
+msgstr "Klíč API"
 
 msgctxt "#30201"
 msgid "API Key"
-msgstr ""
+msgstr "Klíč API"
 
 msgctxt "#30202"
 msgid "API Id"
@@ -265,11 +265,11 @@ msgstr ""
 
 msgctxt "#30204"
 msgid "Enable Personal API Keys"
-msgstr ""
+msgstr "Povolit vlastní klíče API"
 
 msgctxt "#30205"
 msgid "Use preset API key set"
-msgstr ""
+msgstr "Použít přednastavené sady klíčů API"
 
 #YouTube
 #empty strings from id 30206 to 30499
@@ -480,11 +480,11 @@ msgstr "Region"
 
 msgctxt "#30551"
 msgid "Recommendations"
-msgstr ""
+msgstr "Doporučení"
 
 msgctxt "#30552"
 msgid "Maintenance"
-msgstr ""
+msgstr "Údržba"
 
 msgctxt "#30553"
 msgid "Delete function cache database"
@@ -492,7 +492,7 @@ msgstr ""
 
 msgctxt "#30554"
 msgid "Delete search history database"
-msgstr ""
+msgstr "Odstranit historii hledání"
 
 msgctxt "#30555"
 msgid "Clear function cache"
@@ -500,7 +500,7 @@ msgstr ""
 
 msgctxt "#30556"
 msgid "Clear search history"
-msgstr ""
+msgstr "Vyčistit historii hledání"
 
 msgctxt "#30557"
 msgid "function cache"
@@ -508,80 +508,80 @@ msgstr ""
 
 msgctxt "#30558"
 msgid "search history"
-msgstr ""
+msgstr "historie vyhledávání"
 
 msgctxt "#30559"
 msgid "Delete settings.xml"
-msgstr ""
+msgstr "Odstranit settings.xml"
 
 msgctxt "#30560"
 msgid "Subtitle language(s) to download"
-msgstr ""
+msgstr "Jazyk titulků ke stažení"
 
 msgctxt "#30561"
 msgid "None"
-msgstr ""
+msgstr "Žádný"
 
 msgctxt "#30562"
 msgid "All"
-msgstr ""
+msgstr "Všechno"
 
 msgctxt "#30563"
 msgid "Setting"
-msgstr ""
+msgstr "Nastavení"
 
 msgctxt "#30564"
 msgid "Setting, English"
-msgstr ""
+msgstr "Nastavení, angličtina"
 
 msgctxt "#30565"
 msgid "English"
-msgstr ""
+msgstr "angličtina"
 
 msgctxt "#30566"
 msgid "Prompt"
-msgstr ""
+msgstr "Výzva"
 
 msgctxt "#30567"
 msgid "Set as Watch Later"
-msgstr ""
+msgstr "Nastavit jako Shlédnout později"
 
 msgctxt "#30568"
 msgid "Remove as Watch Later"
-msgstr ""
+msgstr "Ostranit Shlédnout později"
 
 msgctxt "#30569"
 msgid "Are you sure you want to remove '%s' as your Watch Later list?"
-msgstr ""
+msgstr "Opravdu chcete odstranit '%s' z vašeho seznamu Přehrát později?"
 
 msgctxt "#30570"
 msgid "Are you sure you want to replace your current Watch Later list with '%s'?"
-msgstr ""
+msgstr "Opravdu chcete nahradit aktuální seznam Přehrát později '%s'?"
 
 msgctxt "#30571"
 msgid "Set as History"
-msgstr ""
+msgstr "Nastavit jako Historie"
 
 msgctxt "#30572"
 msgid "Remove as History"
-msgstr ""
+msgstr "Odstranit Historii"
 
 msgctxt "#30573"
 msgid "Are you sure you want to remove '%s' as your History list?"
-msgstr ""
+msgstr "Opravdu chcete odstranit '%s' Seznam historie?"
 
 msgctxt "#30574"
 msgid "Are you sure you want to replace your current History list with '%s'?"
-msgstr ""
+msgstr "Opravdu chcete nahradit stávající seznam Historie '%s'?"
 
 msgctxt "#30575"
 msgid "Succeeded"
-msgstr ""
+msgstr "Uspěšný"
 
 msgctxt "#30576"
 msgid "Failed"
-msgstr ""
+msgstr "Neúspěšný"
 
 msgctxt "#30577"
 msgid "Settings"
-msgstr ""
+msgstr "Nastavení"
