@@ -18,11 +18,11 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid "Plugin for YouTube"
-msgstr ""
+msgstr "Zásuvný modul pro YouTube"
 
 msgctxt "Addon Description"
 msgid "YouTube is a one of the biggest video-sharing websites of the world."
-msgstr ""
+msgstr "YouTube je jedna z největších světových služeb pro sdílení videa."
 
 msgctxt "#30000"
 msgid "General"
@@ -74,7 +74,7 @@ msgstr "360p"
 
 msgctxt "#30018"
 msgid "1080p Live / 720p (HD)"
-msgstr ""
+msgstr "1080p Live / 720p (HD)"
 
 msgctxt "#30020"
 msgid "Allow 3D"
@@ -146,19 +146,19 @@ msgstr "Podpora alternativního přehrávače"
 
 msgctxt "#30037"
 msgid "Custom Watch Later Playlist ID"
-msgstr ""
+msgstr "Vlastní ID seznamu pro pozdější sledování"
 
 msgctxt "#30038"
 msgid "Custom History Playlist ID"
-msgstr ""
+msgstr "Vlastní ID seznamu historie"
 
 msgctxt "#30039"
 msgid "Enable URLResolver Debrid support"
-msgstr ""
+msgstr "Povolení podpory URLResolver Debrid"
 
 msgctxt "#30040"
 msgid "Configure URLResolver"
-msgstr ""
+msgstr "Nastavit URLResolver"
 
 msgctxt "#30100"
 msgid "Favorites"
@@ -222,7 +222,7 @@ msgstr "Potvrdit smazání"
 
 msgctxt "#30115"
 msgid "Confirm remove"
-msgstr "Potvrdit přesunutí"
+msgstr "Potvrdit odstranění"
 
 msgctxt "#30116"
 msgid "Delete \"%s\"?"
@@ -230,7 +230,7 @@ msgstr "Smazat \"%s\"?"
 
 msgctxt "#30117"
 msgid "Remove \"%s\"?"
-msgstr "Přesunout \"%s\"?"
+msgstr "Odstranit \"%s\"?"
 
 msgctxt "#30118"
 msgid "Delete"
@@ -249,27 +249,27 @@ msgstr "Vyčistit"
 
 msgctxt "#30200"
 msgid "API Key"
-msgstr ""
+msgstr "Klíč API"
 
 msgctxt "#30201"
 msgid "API Key"
-msgstr ""
+msgstr "Klíč API"
 
 msgctxt "#30202"
 msgid "API Id"
-msgstr ""
+msgstr "API Id"
 
 msgctxt "#30203"
 msgid "API Secret"
-msgstr ""
+msgstr "Skryté API"
 
 msgctxt "#30204"
 msgid "Enable Personal API Keys"
-msgstr ""
+msgstr "Povolit osobní API klíče"
 
 msgctxt "#30205"
 msgid "Use preset API key set"
-msgstr ""
+msgstr "Použít přednastavenou sadu klíčů API"
 
 #YouTube
 #empty strings from id 30206 to 30499
@@ -284,7 +284,7 @@ msgstr "Seznamy"
 
 msgctxt "#30502"
 msgid "Go to %s"
-msgstr "Jít na %s"
+msgstr "Přejít na %s"
 
 msgctxt "#30503"
 msgid "Show channel fanart"
@@ -328,7 +328,7 @@ msgstr "Procházet kanály"
 
 msgctxt "#30513"
 msgid "Popular right now"
-msgstr "Populární videa"
+msgstr "Populární právě teď"
 
 msgctxt "#30514"
 msgid "Related Videos"
@@ -348,7 +348,7 @@ msgstr "Odebírat od %s"
 
 msgctxt "#30518"
 msgid "Go to '%s'"
-msgstr "Jít na '%s'"
+msgstr "Přejít na '%s'"
 
 msgctxt "#30519"
 msgid "and enter the following code:"
@@ -480,108 +480,108 @@ msgstr "Region"
 
 msgctxt "#30551"
 msgid "Recommendations"
-msgstr ""
+msgstr "Doporučení"
 
 msgctxt "#30552"
 msgid "Maintenance"
-msgstr ""
+msgstr "Údržba"
 
 msgctxt "#30553"
 msgid "Delete function cache database"
-msgstr ""
+msgstr "Vymazat funkci mezipaměti databáze"
 
 msgctxt "#30554"
 msgid "Delete search history database"
-msgstr ""
+msgstr "Vymazat historii hledání databáze"
 
 msgctxt "#30555"
 msgid "Clear function cache"
-msgstr ""
+msgstr "Vymazat mezipamět funkce"
 
 msgctxt "#30556"
 msgid "Clear search history"
-msgstr ""
+msgstr "Vymazat historii hledání"
 
 msgctxt "#30557"
 msgid "function cache"
-msgstr ""
+msgstr "funkce mezipaměti"
 
 msgctxt "#30558"
 msgid "search history"
-msgstr ""
+msgstr "historie hledání"
 
 msgctxt "#30559"
 msgid "Delete settings.xml"
-msgstr ""
+msgstr "Smazat nastavení.xml"
 
 msgctxt "#30560"
 msgid "Subtitle language(s) to download"
-msgstr ""
+msgstr "Jazyk titulků ke stažení"
 
 msgctxt "#30561"
 msgid "None"
-msgstr ""
+msgstr "Žádný"
 
 msgctxt "#30562"
 msgid "All"
-msgstr ""
+msgstr "Vše"
 
 msgctxt "#30563"
 msgid "Setting"
-msgstr ""
+msgstr "Nastavení"
 
 msgctxt "#30564"
 msgid "Setting, English"
-msgstr ""
+msgstr "Nastavení, Angličtina"
 
 msgctxt "#30565"
 msgid "English"
-msgstr ""
+msgstr "Angličtina"
 
 msgctxt "#30566"
 msgid "Prompt"
-msgstr ""
+msgstr "Výzva"
 
 msgctxt "#30567"
 msgid "Set as Watch Later"
-msgstr ""
+msgstr "Nastavit jako Sledovat později"
 
 msgctxt "#30568"
 msgid "Remove as Watch Later"
-msgstr ""
+msgstr "Odstranit z Sledovat později"
 
 msgctxt "#30569"
 msgid "Are you sure you want to remove '%s' as your Watch Later list?"
-msgstr ""
+msgstr "Opravdu chcete odstranit '%s' ze seznamu Sledovat později?"
 
 msgctxt "#30570"
 msgid "Are you sure you want to replace your current Watch Later list with '%s'?"
-msgstr ""
+msgstr "Opravdu chce nahradit váš seznam Sledovat později s '%s'?"
 
 msgctxt "#30571"
 msgid "Set as History"
-msgstr ""
+msgstr "Nastavit jako Historie"
 
 msgctxt "#30572"
 msgid "Remove as History"
-msgstr ""
+msgstr "Odstranit jako Historie"
 
 msgctxt "#30573"
 msgid "Are you sure you want to remove '%s' as your History list?"
-msgstr ""
+msgstr "Opravdu chcete odstranit '%s' jako váš seznam Historie "
 
 msgctxt "#30574"
 msgid "Are you sure you want to replace your current History list with '%s'?"
-msgstr ""
+msgstr "Opravdu chcete nahradit váš současný Seznam historie s '%s'?"
 
 msgctxt "#30575"
 msgid "Succeeded"
-msgstr ""
+msgstr "Uspělo"
 
 msgctxt "#30576"
 msgid "Failed"
-msgstr ""
+msgstr "Selhalo"
 
 msgctxt "#30577"
 msgid "Settings"
-msgstr ""
+msgstr "Nastavení"
